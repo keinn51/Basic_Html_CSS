@@ -20,7 +20,6 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 
 ### 🎁 기본적인 tag와 뼈대
 <br><br>
-<p>
 ✅ HTML의 약자는 무엇인가
 <br><br>
 HT - HyperText, 문서와 문서가 링크로 연결되어 있다. ‘링크’라고 이해하면 쉽다.
@@ -28,7 +27,7 @@ HT - HyperText, 문서와 문서가 링크로 연결되어 있다. ‘링크’�
 M - Markup, 태그로 이루어져 있다.
 <br><br>
 L - Language
-</p>
+<br><br><br>
 
 
 ✅ HTML은 결국 ‘언어’이다.
@@ -45,3 +44,7 @@ L - Language
 그래서 그 언어 뼈대가 있으면 우리는 그 언어 뼈대를 바탕으로 코드를 넣어서 컴퓨터에게 보내준다. 
 <br><br>
 그러면 컴퓨터가 그 언어를 받아 그 것을 토대로 페이지를 구성해 주는 것이다.
+<br><br><br>
+!
+
+✅ 
