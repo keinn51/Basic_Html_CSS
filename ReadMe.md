@@ -45,6 +45,6 @@ L - Language
 <br><br>
 그러면 컴퓨터가 그 언어를 받아 그 것을 토대로 페이지를 구성해 주는 것이다.
 <br><br><br>
-!
+!<img width="647" alt="Untitled" src="https://user-images.githubusercontent.com/79993356/112347549-4dd62000-8d0a-11eb-8879-87a98bab0ab9.png">
 
 ✅ 
