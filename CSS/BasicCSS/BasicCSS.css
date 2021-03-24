@@ -1,0 +1,57 @@
+/* (1) Change All */
+* {
+  color: green;
+}
+/* Change the color all of text*/
+
+/* (2) Chage tag*/
+li {
+  color: blue;
+}
+/* 조금 더 구체적으로 설정한 친구들이 먼저 적용된다*/
+
+/* (3) Change ID*/
+#special {
+  color: pink;
+}
+
+li#special {
+  color: aquamarine;
+}
+
+/* (4) Change class*/
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
+
+/* (5) Change hover*/
+button:hover {
+  color: red;
+  background-color: beige;
+}
+
+/* (6) Change a (including href)*/
+a[href="https://www.naver.com"]
+{
+  color: purple;
+}
+
+a[href^="www"] {
+  color: salmon;
+}
+
+a[href$="net"] {
+  color: skyblue;
+}
+
+/* (7) Margin, border, padding*/
+.red {
+  padding: 20px 100px 30px 20px;
+  margin: 20px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: blue;
+}
+/* padding은 20px을 박스 안에다가 넣어주는 친구이고, margin은 20px을 상자 밖에다가 넣어주는 친구이다.*/
