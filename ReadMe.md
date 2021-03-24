@@ -61,7 +61,7 @@ L - Language, 언어다!
 <img width="768" alt="Untitled" src="https://user-images.githubusercontent.com/79993356/112349131-d30e0480-8d0b-11eb-8a93-ebd461b60d80.png">
 <br><br>
 태그는 컨텐츠(전달하고자 하는 내용)을 감싸주는 역할을 한다.
-<br><br><br>
+<br><br>
 사진에서 보면 컨텐츠와 이를 감싸는 태그가 보인다.
 <br><br>
 href는 링크를 연결해주는 속성명이며, HTML <a> 요소(앵커 요소)는 href 특성을 통해
