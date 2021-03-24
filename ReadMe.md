@@ -21,6 +21,7 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 ### 🎁 기본적인 tag와 뼈대
 <br>
 <br>
+<p>
 ✅ HTML의 약자는 무엇인가
 <br>
 <br>
@@ -31,6 +32,7 @@ M - Markup, 태그로 이루어져 있다.
 <br>
 <br>
 L - Language
+</p>
 
 
 ✅ HTML은 결국 ‘언어’이다.
