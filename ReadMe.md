@@ -23,7 +23,9 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 ✅ HTML의 약자는 무엇인가
 <br>
 HT - HyperText, 문서와 문서가 링크로 연결되어 있다. ‘링크’라고 이해하면 쉽다.
- 
+ <br>
+
 M - Markup, 태그로 이루어져 있다.
- 
+ <br>
+
 L - Language
