@@ -20,7 +20,7 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 
 ### 🎁 기본적인 tag와 뼈대
 <br><br>
-✅ HTML의 약자는 무엇인가
+#### HTML의 약자는 무엇인가
 <br><br>
 HT - HyperText, 문서와 문서가 링크로 연결되어 있다. ‘링크’라고 이해하면 쉽다.
 <br><br>
@@ -30,7 +30,7 @@ L - Language
 <br><br><br>
 
 
-✅ HTML은 결국 ‘언어’이다.
+#### HTML은 결국 ‘언어’이다.
 <br><br>
 웹페이지를 만드는 ‘언어’. 언어는 <b>소통</b>하기 위해 만드는 것이다.
 <br><br>
@@ -49,4 +49,4 @@ L - Language
 위와 같은 사진의 형식이 기본적인 HTML의 틀이라고 할 수 있다.
 <br><br><br>
 
-✅ tag는 무엇인가.
+#### tag는 무엇인가.
