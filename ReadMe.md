@@ -44,7 +44,10 @@ L - Language
 그래서 그 언어 뼈대가 있으면 우리는 그 언어 뼈대를 바탕으로 코드를 넣어서 컴퓨터에게 보내준다. 
 <br><br>
 그러면 컴퓨터가 그 언어를 받아 그 것을 토대로 페이지를 구성해 주는 것이다.
+<br><br>
+<img width="647" alt="Untitled" src="https://user-images.githubusercontent.com/79993356/112347549-4dd62000-8d0a-11eb-8879-87a98bab0ab9.png">
+<br><br>
+위와 같은 사진의 형식이 기본적인 HTML의 틀이라고 할 수 있다.
 <br><br><br>
-!<img width="647" alt="Untitled" src="https://user-images.githubusercontent.com/79993356/112347549-4dd62000-8d0a-11eb-8879-87a98bab0ab9.png">
 
-✅ 
+✅ tag
