@@ -213,7 +213,7 @@ Head 안에서 쓰는 tag들(meta, link, style..)과 body 안에서 쓰는 tag�
 
 <br><br>
 
-#### 로그인 폼을 만드는 법
+### 로그인 폼을 만드는 법
 
 <br>
 
@@ -251,7 +251,7 @@ action은 사용자가 입력한 정보를 ~로 보내주어라 할 때 사용�
 
 <br>
 
-#### name 설정해주기
+### name 설정해주기
 
 <br>
 
@@ -275,7 +275,7 @@ name으로 구분 지어, input을 통해 정보를 입력하면, 오른쪽 사�
 
 <br>
 
-#### textarea 사용법
+### textarea 사용법
 
 <br>
 
@@ -291,7 +291,7 @@ name으로 구분 지어, input을 통해 정보를 입력하면, 오른쪽 사�
 
 <br>
 
-#### Select 사용법
+### Select 사용법
 
 ![image](https://user-images.githubusercontent.com/79993356/112411028-8eac5400-8d5f-11eb-9ced-696f327506eb.png)
 
@@ -319,7 +319,7 @@ select는 사진과 같이 선택할 수 있는 UI를 만들어주는 것이다.
 
 <br>
 
-#### radio & Checkbox
+### radio & Checkbox
 
 <br>
 
@@ -347,7 +347,7 @@ checkbox는 radio와 달리, *그룹 내 다른 선택지를 선택해도 모두
 
 <br>
 
-#### button
+### button
 
 <br>
 
@@ -361,7 +361,7 @@ checkbox는 radio와 달리, *그룹 내 다른 선택지를 선택해도 모두
 
 <br>
 
-#### label
+### label
 
 <br>
 
@@ -395,7 +395,7 @@ checkbox는 radio와 달리, *그룹 내 다른 선택지를 선택해도 모두
 
 <br>
 
-#### HTML과 CSS합쳐보기
+### HTML과 CSS합쳐보기
 
 <br>
 
@@ -437,7 +437,7 @@ HTML파일에다 이런 식으로 link 태그를 걸어준다.
 
 <br><br>
 
-#### 선택자와 속성
+### 선택자와 속성
 
 <br>
 
