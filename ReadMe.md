@@ -17,7 +17,7 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 
 <br>
 
-☁︎ Explain about Repository
+<b>☁︎ Explain about Repository</b>
 <br>
 
 Basic_HTML : HTML을 구성하는 가장 기본적인 레이아웃을 살펴본다.
