@@ -18,8 +18,12 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 
 ****
 
-## 🎁 기본적인 tag와 뼈대
+## 🎁 HTML과 tag
 <br><br>
+이 글을 읽는 사람은 나와 같이 html과 CSS가 아예 생소한 사람일테다.
+<br><br>
+천천히 이 글을 읽다 보면 그래도 나름… 개념이 잡히지 않을까 한다.
+<br><br><br>
 ### HTML의 약자는 무엇인가
 <br><br>
 HT - HyperText, 문서와 문서가 링크로 연결되어 있다. ‘링크’라고 이해하면 쉽다.
@@ -61,7 +65,7 @@ tag가 어떤 것이 있는지 감이 안 올 것이다. 당연하다. 나도 �
 <br><br>
 그러기에 이 사이트를 추천한다.
 <br><br>
-<a href=“https://developer.mozilla.org/ko/docs/Web/HTML/Element/a”>MDN</a>
+<b><a href=“https://developer.mozilla.org/ko/docs/Web/HTML/Element/a”>MDN</a></b>
 <br><br>
 위 사이트에서 여러 tag들에 대한 설명을 보고 용법을 이해하면 도움이 많이 된다.
 <br><br><br>
@@ -74,7 +78,7 @@ tag가 어떤 것이 있는지 감이 안 올 것이다. 당연하다. 나도 �
 <br><br>
 사진에서 보면 컨텐츠와 이를 감싸는 태그가 보인다.
 <br><br>
-<b>✓ a와 href는 무엇인가? </b>
+<b>✚ a와 href는 무엇인가? </b>
 <br><br>
 href는 링크를 연결해주는 속성명이며, HTML <a> 요소(앵커 요소)는 href 특성을 통해
 <br>
@@ -83,4 +87,59 @@ href는 링크를 연결해주는 속성명이며, HTML <a> 요소(앵커 요소
 a tag 안의 콘텐츠는 '링크 목적지'의 설명을 나타내야 한다.
 <br><br><br>
   
-### HTML
+### HTML의 뼈대느 어떻게 이루어져 있는가?
+<br><br>
+<b>(1) 진짜! 기본적인 뼈대</b>
+ <br><br>
+‘’’
+<!DOCTYPE HTML>
+<html>
+    <head>
+        문서를 정의하는 데이터가 위치함
+    </head>
+    <body>
+        문서에 표시되는 컨텐츠가 위치함
+    </body>
+</html>
+‘’’
+ <br><br>
+ <br><br><br>
+
+- HTML 문서는 파일의 확장자가 html 혹은 htm으로 끝난다.
+<br><br>
+
+- 최상위 태그로 <html>을 사용한다. 그 하위에 <head> 태그와 <body> 태그를 컨텐츠로 가지고 있다.
+<br><br>
+
+- <head> 태그는 문서를 ‘설명하는 태그’로 제목이나 키워드와 같은 정보를 담는다.
+<br><br>
+
+- <body> 태그에는 ‘문서의 내용’이 위치한다.
+ <br><br><br>
+
+ 
+<b>(2) 예제</b>
+<br><br>
+ 
+‘’’
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    </head>
+    <body>
+        <img alt="생활코딩 로고" src="https://opentutorials.org/user/course/1/94.png" />
+        <br />
+        <a href="http://opentutorials.org/course/1">생활코딩</a>
+    </body>
+</html>
+‘’’
+<br><br>
+✚ meta : 어떠한 문서코드로 사용해서 저장이 되었는지를 적어둔 곳이다!
+<br><br>
+✚ br : 줄바꿈이다.
+
+ <br><br>
+Head 안에서 쓰는 tag들(meta, link, style..)과 body 안에서 쓰는 tag들(div, a, p, input..)이 따로 있다.
+<br><br>
+그 것도 MDN에서 친절히 알려주니 둘러보자!
