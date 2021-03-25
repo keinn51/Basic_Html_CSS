@@ -17,6 +17,19 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 
 <br>
 
+☁︎ Explain about Repository
+<br>
+
+Basic_HTML : HTML을 구성하는 가장 기본적인 레이아웃을 살펴본다.
+
+HTML(1)_tag : HTML의 개념과 tag를 간단하게 공부한다. (🙋‍♂️가장중요)
+
+HTML(2)_form : HTML에서의 form을 만드는 법에 대해서 살펴본다.
+
+HTML(3)_table : HTML에서의 table을 만드는 법에 대해서 살펴본다. 다만 table은 실제로 자주 쓰이지 않기 때문에, 설명은 건너뛰고 소스 파일만 업로드한다.
+
+CSS/BasicCSS : CSS의 용법과 기본적인 구성에 대해서 알아본다.
+<br><br>
 
 
 ****
