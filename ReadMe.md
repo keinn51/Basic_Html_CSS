@@ -90,20 +90,20 @@ a tag 안의 콘텐츠는 '링크 목적지'의 설명을 나타내야 한다.
 ### HTML의 뼈대느 어떻게 이루어져 있는가?
 <br><br>
 <b>(1) 진짜! 기본적인 뼈대</b>
- <br><br>
-‘’’
-<!DOCTYPE HTML>
-<html>
-    <head>
-        문서를 정의하는 데이터가 위치함
-    </head>
-    <body>
-        문서에 표시되는 컨텐츠가 위치함
-    </body>
-</html>
-‘’’
- <br><br>
- <br><br><br>
+<br><br>
+
+  <!DOCTYPE HTML>
+  <html>
+      <head>
+         문서를 정의하는 데이터가 위치함
+      </head>
+      <body>
+          문서에 표시되는 컨텐츠가 위치함
+      </body>
+  </html>
+
+<br><br>
+<br><br><br>
 
 - HTML 문서는 파일의 확장자가 html 혹은 htm으로 끝난다.
 <br><br>
