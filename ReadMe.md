@@ -566,7 +566,9 @@ CSS의 다른 가술들에 대해서는 본 레퍼지토리 CSS파일을 참고�
 
 <br>
 <b>✚ CSS 활용 능력 향상을 위한 게임 ~ 🔔</b>
+
 <a href="https://flukeout.github.io">CSS diner</a>
+
 CSS를 사용하는 법을 어느 정도 알았다면 게임으로 실력을 향상시켜보자😄
 
 <br><br>
