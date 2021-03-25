@@ -483,7 +483,7 @@ body 태그에 스타일을 주겠다는 뜻으로, 이 부분을 **'선택자(S
 
 <br>
 
-![image](/Users/ksnotebook/Downloads/image.png)
+![image](https://user-images.githubusercontent.com/79993356/112424446-c32c0a00-8d77-11eb-8163-19c20c74c348.png)
 
 <br>
 
@@ -493,7 +493,7 @@ body 태그에 스타일을 주겠다는 뜻으로, 이 부분을 **'선택자(S
 
 <br>
 
-![image2](/Users/ksnotebook/Downloads/image2.png)
+![image2](https://user-images.githubusercontent.com/79993356/112424471-d17a2600-8d77-11eb-8913-0afa4c63f634.png)
 
 <br>
 
@@ -503,7 +503,7 @@ body 태그에 스타일을 주겠다는 뜻으로, 이 부분을 **'선택자(S
 
 <br>
 
-![image3](/Users/ksnotebook/Downloads/image3.png)
+![image3](https://user-images.githubusercontent.com/79993356/112424490-ddfe7e80-8d77-11eb-8147-d942cc307d76.png)
 
 <br>
 
@@ -513,8 +513,7 @@ body 태그에 스타일을 주겠다는 뜻으로, 이 부분을 **'선택자(S
 
 <br>
 
-![image4](/Users/ksnotebook/Downloads/image4.png)
-
+![image4](https://user-images.githubusercontent.com/79993356/112424511-ebb40400-8d77-11eb-9e95-6b29159c2607.png)
 <br>
 
  이렇게 된다. h1태그 안에 있던 글자의 크기와 색깔이 달라졌음이 보인다.
@@ -523,7 +522,7 @@ body 태그에 스타일을 주겠다는 뜻으로, 이 부분을 **'선택자(S
 
 <br>
 
-![image5](/Users/ksnotebook/Downloads/image5.png)
+![image5](https://user-images.githubusercontent.com/79993356/112424537-f66e9900-8d77-11eb-81ba-3ed37576414a.png)
 
 <br>
 
@@ -533,7 +532,7 @@ p태그와 div 안의 p태그를 구분해서 색을 입혀주는 것도 가능�
 
 <br>
 
-![image6](/Users/ksnotebook/Downloads/image6.png)
+![image6](https://user-images.githubusercontent.com/79993356/112424558-fff80100-8d77-11eb-91e3-502c2a0f21b6.png)
 
 <br>
 
