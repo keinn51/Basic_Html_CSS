@@ -54,6 +54,8 @@ L - Language, 언어다!
 우리의 옷에 붙어 있는 태그를 보면, 옷이라는 제품의 설명이 부가 되어 있지 않은가.
 <br><br>
 그 것이 <b>태그</b>이다. HTML에서의 태그도 이와 비슷한 역할을 한다.
+<br><br>
+<img src="https://pbs.twimg.com/media/Bk6ZHtVCUAElA3a.jpg">
 <br><br><br>
 tag가 어떤 것이 있는지 감이 안 올 것이다. 당연하다. 나도 그랬다!
 <br><br>
@@ -62,6 +64,7 @@ tag가 어떤 것이 있는지 감이 안 올 것이다. 당연하다. 나도 �
 <a href=“https://developer.mozilla.org/ko/docs/Web/HTML/Element/a”>MDN</a>
 <br><br>
 위 사이트에서 여러 tag들에 대한 설명을 보고 용법을 이해하면 도움이 많이 된다.
+<br><br><br>
 
 ### tag 뼈대는 어떻게 이루어져 있는가?
 <br><br>
