@@ -564,6 +564,11 @@ p태그와 div 안의 p태그를 구분해서 색을 입혀주는 것도 가능�
 
 CSS의 다른 가술들에 대해서는 본 레퍼지토리 CSS파일을 참고해서 공부해보길 바란다.
 
+<br>
+<b>✚ CSS 활용 능력 향상을 위한 게임 ~ 🔔</b>
+<a href="https://flukeout.github.io">CSS diner</a>
+CSS를 사용하는 법을 어느 정도 알았다면 게임으로 실력을 향상시켜보자😄
+
 <br><br>
 
 HTML과 CSS를 더욱 공부하기 위해서 가장 좋은 방법은 Clone Coding! 이 레퍼지토리를 정독하고 연습했다면,
