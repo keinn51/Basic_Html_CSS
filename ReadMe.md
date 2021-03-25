@@ -384,8 +384,8 @@ checkbox는 radio와 달리, *그룹 내 다른 선택지를 선택해도 모두
 <br>
 
 <br>
-
-## Basic CSS
+****
+## 🎁 Basic CSS
 
 <br>
 
