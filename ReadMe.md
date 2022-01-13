@@ -32,9 +32,9 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 
 ## 🔎 주요 개념
 
-<p align='center'>
+  <h3 align='center'>
   <a href="https://github.com/keinn51/Basic_Html_CSS/wiki#--html%EC%9D%98-%EA%B8%B0%EB%B3%B8%EA%B3%BC-tag">🔗 HTML의 기본과 tag</a>
-</p>
+  </h3>
 
 <p align='center'>
 <img  width="500"  alt="Untitled"  src="https://user-images.githubusercontent.com/79993356/112349131-d30e0480-8d0b-11eb-8a93-ebd461b60d80.png">
@@ -45,9 +45,9 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 
 <br>
 
-<p align='center'>
+<h3 align='center'>
   <a href="https://github.com/keinn51/Basic_Html_CSS/wiki#--form%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95">🔗  form을 만드는 법</a>
-</p>
+</h3>
 
 <p align='center'>
 <img  width="500"  alt="Untitled"  src="https://user-images.githubusercontent.com/79993356/112410780-1e9dce00-8d5f-11eb-8ef3-3696d1bb4d09.png">
@@ -56,14 +56,11 @@ I recommend the website for beginner because they tell you the basics in an <b>e
 <p align='center'>form을 구성하는 요소에 대해서 살펴본다. </p>
 <p align='center'>textarea, select, radio, checkbox, button 등의 요소를 배운다.</p>
 
-
 <br>
 
-
-
-<p align='center'>
+<h3 align='center'>
   <a href="https://github.com/keinn51/Basic_Html_CSS/wiki#--basic-css">🔗 CSS의 기본</a>
-</p>
+</h3>
 
 <p align='center'>
 <img  width="500"  alt="Untitled"  src="https://user-images.githubusercontent.com/79993356/112424471-d17a2600-8d77-11eb-8913-0afa4c63f634.png">
